@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ANSH20.aternos.me",
-    "port": 25565,
+    "ip": "bristlemouth.aternos.host:14244",
+    "port": 14244,
     "version": "",
     "try-creative": false
   },
